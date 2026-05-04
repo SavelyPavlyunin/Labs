@@ -1,0 +1,24 @@
+Sun Mar 29 22:10:57 MSK 2026 | Исключение: CustomUnsupportedOperationException: Операция '=' не поддерживается.
+Сообщение: Операция '=' не поддерживается.
+------------------------------------
+Sun Mar 29 22:11:58 MSK 2026 | Исключение: java.lang.NumberFormatException: For input string: "klk"
+Сообщение: For input string: "klk"
+------------------------------------
+Mon Mar 30 11:20:24 MSK 2026 | Исключение: java.lang.NumberFormatException: For input string: "пмтвыопаоы"
+Сообщение: For input string: "пмтвыопаоы"
+------------------------------------
+Mon Mar 30 11:22:01 MSK 2026 | Исключение: CustomUnsupportedOperationException: Операция '=' не поддерживается.
+Сообщение: Операция '=' не поддерживается.
+------------------------------------
+Mon Mar 30 11:24:23 MSK 2026 | Исключение: java.lang.NumberFormatException: For input string: "ыкпвы"
+Сообщение: For input string: "ыкпвы"
+------------------------------------
+Mon Mar 30 11:24:39 MSK 2026 | Исключение: CustomUnsupportedOperationException: Операция '=' не поддерживается.
+Сообщение: Операция '=' не поддерживается.
+------------------------------------
+Mon Mar 30 11:24:59 MSK 2026 | Исключение: CustomUnsupportedOperationException: Операция '++++++++++' не поддерживается.
+Сообщение: Операция '++++++++++' не поддерживается.
+------------------------------------
+Sun Apr 12 19:00:08 MSK 2026 | Исключение: java.lang.NumberFormatException: For input string: "уцйуйц"
+Сообщение: For input string: "уцйуйц"
+------------------------------------
