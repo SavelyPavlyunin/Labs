@@ -28,7 +28,5 @@ public class Main {
 
         System.out.println("\n--- Шаг 3: Сохранение результатов ---");
         dataManager.saveData(outputFile);
-
-        System.out.println("\nЛабораторная работа выполнена успешно!");
     }
 }
